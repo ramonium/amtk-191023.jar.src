@@ -1,0 +1,247 @@
+id;name
+1;Lazer
+2;DEK
+3;Cyber-Optics
+4;Insertion Automatique
+5;P&P Panasonic
+6;Reflow
+7;AOI OMRON
+8;Insertion Manuel 1
+9;Insertion Manuel 2
+10;Insertion Manuel 3
+11;Insertion Manuel 4
+12;AOI Modus
+13;ICT test
+14;Lens Gluing
+15;Coating
+16;Handle Cutting
+17;Lens Welding
+18;Plasma Teatement
+19;ASSEMBLAGE 1 Cordset
+20;ASSEMBLAGE 2 Cordset
+21;Pre-Leak Test
+22;ASSEMBLAGE 3 Cordset
+23;ASSEMBLAGE 4 Cordset
+24;ASSEMBLAGE 5 Cordset
+25;Pre-FKT
+26;AC cutting
+27;Logo Gluing
+28;Jumper Cutting
+29;vibration welding
+30;End Cup Injection
+31;FKT
+32;Leak Test
+33;Q-Gate
+34;Accessories Inspection
+35;End Cup Preparation
+36;Accessories Assembly
+37;Midstripp
+38;Uni stripping
+39;Crimping
+40;spot soldering
+41;Shrink Preparation
+42;RT US welding 1
+43;RT US welding 2
+44;Splicing
+45;Cold melt application
+46;Shrinking
+47;Connector assembly
+48;LATCH Assembly
+49;SHELLS Assembly
+50;Preliminary electrical test ( handle + AC )
+51;Handle Injection
+52;Soft Grip Gluing
+53;Final Handle electrical + HiPot test
+54;Handle Leak Test
+55;Shipping to Final Assembly
+56;RTV
+57;Shipping Client
+58;Control Coating
+59;Control RTV
+60;Rooter
+61;Packaging
+62;Lazer
+63;Serigraphie DEK
+64;AOI 2D
+65;Universal
+66;Depaneling
+67;Insertion Manuelle
+68;PRESS-FIT
+69;OMRON
+70;VERNISSAGE
+71;Cover Assy
+72;Manual Fuse Insertion
+73;Control Firewall
+74;Preparation Cambrage
+75;Lazer Marking
+76;THT Automatic insertion
+77;P&P Yamaha
+78;Insertion Manuelle Diode
+79;power
+80;TEST SANDWISH
+81;X-RAY
+82;Houssing
+83;Climatic Chamber
+84;Labeling
+85;Reflash
+86;Insertion  Busber
+87;ASSEMBLAGE
+88;AOI IPTE
+89;connecteur insertion
+90;Edge Coating
+91;Label printing
+92;Bracket Assembly
+93; AOI
+94;Screwing Shunt
+95;Selective  Soldering
+96;Beinding
+97;Automatic shunt soldring(roobot)  / control camera
+98;ASSEMBLAGE 1
+99;ASSEMBLAGE 2
+100;ASSEMBLAGE 3
+101;ASSEMBLAGE 4
+102;ASSEMBLAGE 5
+103;Shaker test
+104;Vissage Connecteur
+105;Wave Soldering
+106;KAPTON Preparation
+107;Insertion Short Pin
+108;SOUDAGE Short pin
+109;Cambrage
+110;Insertion Long Pin
+111;SOUDAGE Long pin
+112;Poka-Yoke
+113;Selective Edges
+114;Lazpuir Plus 13
+115;Insertion  Grouping
+116;Bartec
+117;IPTE
+118;Insertion  Ushape
+119;Coupe Bussbar
+120;Preparation Busber
+121;Vissage Cover
+122;Revting
+123;Coupe Bussbar
+124;Preparation Bushing
+125;AOI 3D
+126;LA COUPE
+127;AOI ROTARY
+128;Selective Coating
+129;AUTOMATIC § MANUAL FUSS § RELAY ASSEMBLY
+130;PRESS FUSE
+131;Preparation Radsock
+132;SOLDER PASTE INSPECTION
+133;TERMINAL INSERTION
+134;Application Holtmet
+135;Power Module
+136;Offline Station 1
+137;Offline Station 2
+138;Loading/ Unloading (header screwing)
+139;Dispensing
+140;Pressing Station
+141;ASSEMBLAGE 1 OBC
+142;ASSEMBLAGE 2 OBC
+143;ASSEMBLAGE 3 OBC
+144;ASSEMBLAGE 4 OBC
+145;ASSEMBLAGE 5 OBC
+146;ASSEMBLAGE 6 OBC
+147;ASSEMBLAGE 7 OBC
+148;ASSEMBLAGE 8 OBC
+149;ASSEMBLAGE 9 OBC
+150;Automatique  Clinching
+151;AOI Viscom
+152;PCB Gluing
+153;Power PCB Assembly
+154;Main Seal Assembly
+155;Mariage Assy
+156;Final AOI
+157;GP 12 (Contrôle)
+158;Sealing Ring ASSY
+159;Machine assembly
+160;AOI KOHYOUNG
+161;AOI MARKING
+162;Dec
+163;Machine assembly
+164;AOI 2D (Certified C in other WS)
+165;AOI 3D THT
+166;AOI A72 (Certified C in other WS)
+167;AOI IPTE/AOI CVC (Certified C in other WS)
+168;AOI modus (Certified C in other WS)
+169;AOI Omron (Certified C in other WS)
+170;Assemblage (REVITING/GLUING/SPEAKER)
+171;Automatic Fuse Insertion
+172;Automatic Insertion
+173;Bending
+174;bushing
+175;Coating emertionLazpiur
+176;Coating PVA
+177;coating spray / Insertion
+178;Connector screwing
+179;Cover Assembly 1
+180;Cover Assembly 2
+181;Cover Assembly 3
+182;Cover Assy /houssing
+183;Cover Assy including screwing
+184;Crimping
+185;Cutting BUSBAR
+186;Cutting Preparation Busbar
+187;Cyber Optique (Certified C in other WS)
+188;DEK/MPM
+189;Depanneling
+190;Dukane
+191;Easy Rooter Shipping
+192;Edge Coating IPTE
+193;Edge Coating KNODEL
+194;EOL assembly 1
+195;EOL assembly 2
+196;EOL assembly 3
+197;EOL assembly 4
+198;EOL assembly 5
+199;Final AOI automatique
+200;Fire wall (Certified C in other WS)
+201;FKT Lazpiur/IPTE
+202;FKT Power
+203;Flyingprob
+204;HOUSSING ASSY 1
+205;HOUSSING ASSY 2
+206;HOUSSING ASSY 3
+207;HOUSSING Dispensing
+208;ICT
+209;Insertion busber
+210;Insertion grouping
+211;Insertion Long Pin
+212;Insertion relais (Plus 13)
+213;Lazer Marking /Lazer Marking MACSA
+214;Manual Diode Insertion
+215;Manuel Station(accessories inspection)
+216;Mariage Assy 1
+217;Mariage Assy 2
+218;Mariage Assy 3
+219;MidStrip
+220;Panasonic
+221;PCBA FKT
+222;Poka yoke
+223;Power strip
+224;Press Fit
+225;QX 5 (Certified C in other WS)
+226;reflashing
+227;Reflow (Certified C in other WS)
+228;Rework
+229;rework analyst
+230;Rework reflash
+231;RTV dispensing
+232;Screwing ASSY
+233;Selective soldering
+234;Selective soldering (Already Certified C in other WS)
+235;Shaker
+236;Shipping
+237;Shunt Robot (Already Certified C in other WS)
+238;Shunt screwing
+239;Soft grip gluing
+240;Toroid Dsipensing
+241;Ultrasonic welding
+242;Unistrip
+243;Wave soldering Insertion
+244;Wave soldering Visual Check (Already Certified C in other WS)
+245;X-Ray (Certified C in other WS)
+246;Yamaha

@@ -1,0 +1,249 @@
+id;text;item_group;validator;created_by;created_date;last_modified_by;last_modified_date;checklist_model_id
+1;Sait-il quels équipements ou outils il doit utiliser;Mode opératoire (Engineering) ;ROLE_PROCESS_STAFF;;;;;1
+2;Sait-il comment les utiliser;Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;1
+3;Connaît-il la procédure de mise en Marche;Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;1
+4;Sait-il introduire les données correspondantes;Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;1
+5;Sait-il interpréter les informations qui apparaissent sur l’écran;Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;1
+6;Connait-il les règles de Handling (composants, produits semi finis);Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;1
+7;Connaît-il les règles de ESD;Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;1
+8;Effectue-t-il correctement toutes les opérations de fabrication;Processus de Fabrication (Engineering);ROLE_PROCESS_STAFF;;;;;1
+9;Sait-il quels sont les paramètres d’INPUT/OUTPUT;Processus de Fabrication (Engineering);ROLE_PROCESS_STAFF;;;;;1
+10;Sait-il les autocontrôles à effectuer avant /après;Enregistrement / Autocontrôle (Qualité);ROLE_QUALITY_STAFF;;;;;1
+11;Sait-il les enregistrements à effectuer et avec quelle fréquence;Enregistrement / Autocontrôle (Qualité);ROLE_QUALITY_STAFF;;;;;1
+12;Le remplissage instruction d’auto contrôle;Les points à vérifier (Qualité);ROLE_QUALITY_STAFF;;;;;1
+13;La validation de la première palette;Les points à vérifier (Qualité);ROLE_QUALITY_STAFF;;;;;1
+14;Vérification aspect + référence Bobine;Les points à vérifier (Qualité);ROLE_QUALITY_STAFF;;;;;1
+15;Réalisation MPN;Les points à vérifier (Qualité);ROLE_QUALITY_STAFF;;;;;1
+16;Rangement bobine sur les supports adéquats;Les points à vérifier (Qualité);ROLE_QUALITY_STAFF;;;;;1
+17;Assurer le fonctionnement des enrouleurs papier et informer en cas de panne;Les points à vérifier (Qualité);ROLE_QUALITY_STAFF;;;;;1
+18;Assurer que les flasques sont montées correctement afin de fixer les bobines;Les points à vérifier (Qualité);ROLE_QUALITY_STAFF;;;;;1
+19;Chargement Programme;Les points à vérifier (Qualité);ROLE_QUALITY_STAFF;;;;;1
+20;Codification palette selon doc nécessaire;Les points à vérifier (Qualité);ROLE_QUALITY_STAFF;;;;;1
+21;Traitement des rejets;Les points à vérifier (Qualité);ROLE_QUALITY_STAFF;;;;;1
+22;Identification palette après intervention;Les points à vérifier (Qualité);ROLE_QUALITY_STAFF;;;;;1
+23;Vider la tête après chaque basculement;Les points à vérifier (Qualité);ROLE_QUALITY_STAFF;;;;;1
+24;Connait-il les éléments de sécurité de son poste;Sécurité et Environnement (HSE);ROLE_HSE_STAFF;;;;;1
+25;Sait-il les points à contrôler et avec quelle fréquence;Sécurité et Environnement (HSE);ROLE_HSE_STAFF;;;;;1
+26;Sait-il que doit-il faire si un équipement de sécurité ne fonctionne pas;Sécurité et Environnement (HSE);ROLE_HSE_STAFF;;;;;1
+27;Connaît-il les mesures de protection et de sécurité à prendre pour éviter les risques d’accidents;Sécurité et Environnement (HSE);ROLE_HSE_STAFF;;;;;1
+28;Respecte-il les règles de séparation des déchets (déchet chimique, carton, …);Sécurité et Environnement (HSE);ROLE_HSE_STAFF;;;;;1
+29;Sait-il qu’il ne faut pas jeter des déchets ou des produits chimiques dans les réseaux d’eau;Sécurité et Environnement (HSE);ROLE_HSE_STAFF;;;;;1
+30;En cas de certification, est ce que la matrice de polyvalence a été mis à jour;Matrice de polyvalence (RH);ROLE_HR_STAFF;;;;;1
+31;Effectue-t-il correctement toutes les opérations de fabrication;Processus de Fabrication : (Manufacturing);ROLE_PRODUCTION_STAFF;;;;;2
+32;L’opérateur respecte l’objectif de production (Cycle Time);Processus de Fabrication : (Manufacturing);ROLE_PRODUCTION_STAFF;;;;;2
+33;L’opération est effectuée avec le respect de standard de la qualité;Processus de contrôle qualité (Qualité);ROLE_QUALITY_STAFF;;;;;2
+34;Le traitement de non-conformité est effectué correctement;Processus de contrôle qualité (Qualité);ROLE_QUALITY_STAFF;;;;;2
+35;En cas de certification, est ce que la matrice de polyvalence a été mis à jour;Matrice de polyvalence (RH);ROLE_HR_STAFF;;;;;2
+36;Non-respect des procédures (instructions de travail/autocontrôle,maintenance premier niveau...);Qualité;ROLE_QUALITY_STAFF;;;;;3
+37;Non-remplissage des enregistrements (check-list démarrage,Maintenance premier niveau...);Qualité;ROLE_QUALITY_STAFF;;;;;3
+38;Non-respect des règles de réaction et d'escalade;Qualité;ROLE_QUALITY_STAFF;;;;;3
+39;Remplissage erroné intentionnel des enregistrements;Qualité;ROLE_QUALITY_STAFF;;;;;3
+40;Non-respect du traitement des non-conformités (Pièces NOK poussée,Pièce NOK non isolée, pièces NOK mélangé avec des pièces OK...);Qualité;ROLE_QUALITY_STAFF;;;;;3
+41;Réparation clandestine (non-autorisée);Qualité;ROLE_QUALITY_STAFF;;;;;3
+42;Non-respect des procédures des réparation;Qualité;ROLE_QUALITY_STAFF;;;;;3
+43;Désactivation intentionnel d’un détrompeur (Poka Yoke);Qualité;ROLE_QUALITY_STAFF;;;;;3
+44;Non-port ou application erronée des EPIs;Qualité;ROLE_QUALITY_STAFF;;;;;3
+45;En cas de dé-certification, est ce que la matrice de polyvalence a été mis à jour;Matrice de polyvalence (RH);ROLE_HR_STAFF;;;;;3
+46;Sait-il quels équipements ou outils il doit utiliser;Mode opératoire (Qualité);ROLE_QUALITY_STAFF;;;;;4
+47;Sait-il comment les utiliser;Mode opératoire (Qualité);ROLE_QUALITY_STAFF;;;;;4
+48;Connaît-il la procédure de mise en Marche;Mode opératoire (Qualité);ROLE_QUALITY_STAFF;;;;;4
+49;Sait-il introduire les données correspondantes;Mode opératoire (Qualité);ROLE_QUALITY_STAFF;;;;;4
+50;Sait-il interpréter les informations qui apparaissent sur l’écran;Mode opératoire (Qualité) ;ROLE_QUALITY_STAFF;;;;;4
+51;Connait-il les règles de Handling (composants, produits semi finis);Mode opératoire (Qualité) ;ROLE_QUALITY_STAFF;;;;;4
+52;Connaît-il les règles de ESD;Mode opératoire (Qualité) ;ROLE_QUALITY_STAFF;;;;;4
+53;Effectue-t-il correctement toutes les opérations de fabrication;Processus de Fabrication (Qualité);ROLE_QUALITY_STAFF;;;;;4
+54;Sait-il quels sont les paramètres d’INPUT/OUTPUT;Processus de Fabrication (Qualité);ROLE_QUALITY_STAFF;;;;;4
+55;Sait-il quels sont les points critiques du poste;Processus de Fabrication (Qualité);ROLE_QUALITY_STAFF;;;;;4
+56;Sait-il quels sont les alertes ou les rejets au niveau de son poste et les actions à entreprendre;Traitement des non-conformités (Qualité) ;ROLE_QUALITY_STAFF;;;;;4
+57;Connaît-il la procédure d’identification et traitement du produit non-conforme;Traitement des non-conformités (Qualité) ;ROLE_QUALITY_STAFF;;;;;4
+58;Connait-il les limites d’interventions de son poste (seuils d’alerte);Traitement des non-conformités (Qualité) ;ROLE_QUALITY_STAFF;;;;;4
+59;Connait-il la procédure de re-test des produits rework (si applicable);Traitement des non-conformités (Qualité) ;ROLE_QUALITY_STAFF;;;;;4
+60;Connait –il les règles de base Qualité;Traitement des non-conformités (Qualité) ;ROLE_QUALITY_STAFF;;;;;4
+61;Sait-il les autocontrôles à effectuer avant /après et pendant le process de fabrication;Enregistrement / Autocontrôle  (Qualité) ;ROLE_QUALITY_STAFF;;;;;4
+62;Sait-il les enregistrements à effectuer et avec quelle fréquence;Enregistrement / Autocontrôle  (Qualité) ;ROLE_QUALITY_STAFF;;;;;4
+63;Quels sont les dispositifs de sécurité du poste ?;Sécurité (HSE) ;ROLE_HSE_STAFF;;;;;4
+64;Connaissez-vous la fiche de sécurité relative au poste (Identification des risques);Sécurité (HSE) ;ROLE_HSE_STAFF;;;;;4
+65;Quels sont les équipements de protection individuels à utiliser sur le poste (obligatoire, recommander ….) ?;Sécurité (HSE) ;ROLE_HSE_STAFF;;;;;4
+66;Que devez-vous faire en cas d’accident / incident ?;Sécurité (HSE);ROLE_HSE_STAFF;;;;;4
+67;Que devez-vous faire en cas de situation d’urgence ?;Sécurité (HSE);ROLE_HSE_STAFF;;;;;4
+68;Comment réagissez-vous En cas de non-fonctionnement d’un dispositif de protection ?;Sécurité (HSE);ROLE_HSE_STAFF;;;;;4
+69;Connaissez-vous l’équipe de première intervention EPI, et l’équipe sauveteur secouriste du travail SST ?;Sécurité (HSE);ROLE_HSE_STAFF;;;;;4
+70;Respecte-il les règles de séparation des déchets (déchet chimique, carton,);Environnement (HSE);ROLE_HSE_STAFF;;;;;4
+71;Sait-il qu’il ne faut pas jeter des déchets ou des produits chimiques dans les réseaux d’eau;Environnement (HSE);ROLE_HSE_STAFF;;;;;4
+72;Une fois terminé de l’utilisation d’un produit chimique, sait-il le rendre à  son armoire (sans risque de déversement);Environnement (HSE);ROLE_HSE_STAFF;;;;;4
+73;Sait-il que nos indicateurs environnementaux sont : consommation d’eau, consommation d’énergie, génération des déchets et recyclage des déchets;Environnement (HSE);ROLE_HSE_STAFF;;;;;4
+74;Sait-il et atteint l’Output de production requis;Performance (Manufacturing);ROLE_PRODUCTION_STAFF;;;;;4
+75;Sait-il et respecte le taux de rejection qualité;Performance (Manufacturing);ROLE_PRODUCTION_STAFF;;;;;4
+76;Sait-il et connait les non-conformités détectées lors des LPA Audits;Performance (Manufacturing);ROLE_PRODUCTION_STAFF;;;;;4
+77;Sait -il appliquer la maintenance 1er niveau ainsi que les 5S;Performance (Manufacturing);ROLE_PRODUCTION_STAFF;;;;;4
+78;En cas de dé-certification, est ce que la matrice de polyvalence a été mis à jour;Matrice de polyvalence (RH);ROLE_HR_STAFF;;;;;4
+79;Discipline;Production;ROLE_PRODUCTION_STAFF;;;;;5
+80;Disponibilité;Production;ROLE_PRODUCTION_STAFF;;;;;5
+81;Esprit d'initiative : fait preuve de créativité et d’initiative;Production;ROLE_PRODUCTION_STAFF;;;;;5
+82;Réactivité : sait réagir au moment opportun;Production;ROLE_PRODUCTION_STAFF;;;;;5
+83;Polyvalence : sait travailler sur plusieurs postes;Production;ROLE_PRODUCTION_STAFF;;;;;5
+84;Visibilité : il (elle) a une vision claire de ce qu’il (elle) veut accomplir.;Production;ROLE_PRODUCTION_STAFF;;;;;5
+85;Esprit d équipe;Production;ROLE_PRODUCTION_STAFF;;;;;5
+86;Capacités Techniques : maitrise parfaite des aspects techniques du poste.;Production;ROLE_PRODUCTION_STAFF;;;;;5
+87;Discipline et Respect des règles  de base qualité.;Qualité;ROLE_QUALITY_STAFF;;;;;5
+88;Respect des Procédures et instructions de travail.;Qualité;ROLE_QUALITY_STAFF;;;;;5
+89;Application des 5S au poste.;Qualité;ROLE_QUALITY_STAFF;;;;;5
+90;0 défauts durant les 3 derniers mois.;Qualité;ROLE_QUALITY_STAFF;;;;;5
+91;Assiduité et Ponctualité;Ressources Humaines/ Formation;ROLE_HR_STAFF;;;;;5
+92;Absentéisme;Ressources Humaines/ Formation;ROLE_HR_STAFF;;;;;5
+93;Ecoute active : il (elle) s’intéresse à ce que les autres ont à dire, il (elle) a une bonne écoute et donne son point de vue.;Ressources Humaines/ Formation;ROLE_HR_STAFF;;;;;5
+94;Il (elle) sait établir de bonnes relations avec diverses personnes.;Ressources Humaines/ Formation;ROLE_HR_STAFF;;;;;5
+95;Techniques de Communication : sait communiquer ;Ressources Humaines/ Formation;ROLE_HR_STAFF;;;;;5
+96;Capacité de transmettre : sait transmettre de façon claire concise et précise.;Ressources Humaines/ Formation;ROLE_HR_STAFF;;;;;5
+97;Sait-il faire la réception de la marchandise en local ;Réception, étiquetage et stockage;ROLE_MAGASIN_STAFF;;;;;6
+98;Sait-il faire la réception de la marchandise en import;Réception, étiquetage et stockage;ROLE_MAGASIN_STAFF;;;;;6
+99;Connaît-il la procédure de l’incoming inspection ;Réception, étiquetage et stockage;ROLE_MAGASIN_STAFF;;;;;6
+100;Sait-il étiqueter les composants électroniques ;Réception, étiquetage et stockage;ROLE_MAGASIN_STAFF;;;;;6
+101;Sait-il identifier les produits MSL;Réception, étiquetage et stockage;ROLE_MAGASIN_STAFF;;;;;6
+102;Connait-il les règles de Handling (composants, produits semi finis);Réception, étiquetage et stockage;ROLE_MAGASIN_STAFF;;;;;6
+103;Connaît-il les règles d’ESD ;Réception, étiquetage et stockage;ROLE_MAGASIN_STAFF;;;;;6
+104;Sait-il manipuler les équipements de manutention;Réception, étiquetage et stockage;ROLE_MAGASIN_STAFF;;;;;6
+105;Sait-il adresser par système les composants sur les racks;Réception, étiquetage et stockage;ROLE_MAGASIN_STAFF;;;;;6
+106;Sait-il respecter le Fifo pendant le stockage;Réception, étiquetage et stockage;ROLE_MAGASIN_STAFF;;;;;6
+107;Sait-il faire la réception physique et quantitatif (pdr +consommable);Réception, étiquetage et stockage;ROLE_MAGASIN_STAFF;;;;;6
+108;Sait-il codifier et adresser une nouvelle référence de pièce de rechange sur EAM;Réception, étiquetage et stockage;ROLE_MAGASIN_STAFF;;;;;6
+109;Sait-il déclarer les FG;Alimentation et declaration;ROLE_MAGASIN_STAFF;;;;;6
+110;Sait-il préparer les composants pour alimentation lignes;Alimentation et declaration;ROLE_MAGASIN_STAFF;;;;;6
+111;Sait-il contrôler la bonne disposition des composants à la ligne;Alimentation et declaration;ROLE_MAGASIN_STAFF;;;;;6
+112;Sait-il respecter le Fifo lors du prélèvement des composants;Alimentation et declaration;ROLE_MAGASIN_STAFF;;;;;6
+113;Sait-il shipper les Finish Good;Alimentation et declaration;ROLE_MAGASIN_STAFF;;;;;6
+114;Sait-il charger les camions pour export;Alimentation et declaration;ROLE_MAGASIN_STAFF;;;;;6
+115;Sait-il contrôler les sorties magasin et alerter s'il y a une surconsommation.;Alimentation et declaration;ROLE_MAGASIN_STAFF;;;;;6
+116;Connaît-il L’instruction de manipulation des produits chimiques existant à la salle de stockage des produits chimiques.;Manipulation des produits chimiques;ROLE_MAGASIN_STAFF;;;;;6
+117;Comment doivent- être les bidons et bouteilles de produit chimique;Manipulation des produits chimiques;ROLE_MAGASIN_STAFF;;;;;6
+118;Pour quels produits chimiques on fait le transvasement;Manipulation des produits chimiques;ROLE_MAGASIN_STAFF;;;;;6
+119;Connaît-il les cas où on doit refaire l’identification des étiquettes;Manipulation des produits chimiques;ROLE_MAGASIN_STAFF;;;;;6
+120;Sait-il comment transporter les produits chimiques;Manipulation des produits chimiques;ROLE_MAGASIN_STAFF;;;;;6
+121;Comment doivent-être l’emballage des produits chimiques après l’utilisation;Manipulation des produits chimiques;ROLE_MAGASIN_STAFF;;;;;6
+122;Sait-il comment limiter tout déversement des produits chimiques;Manipulation des produits chimiques;ROLE_MAGASIN_STAFF;;;;;6
+123;Sait-il quels sont les composants à inspecter;Manipulation des produits chimiques;ROLE_MAGASIN_STAFF;;;;;6
+124;Connaît-il les produits périssables;Manipulation des produits chimiques;ROLE_MAGASIN_STAFF;;;;;6
+125;Connait-il la procédure de suivi de température;Manipulation des produits chimiques;ROLE_MAGASIN_STAFF;;;;;6
+126;Connait-il la procédure à suivre en cas d’un produit périmé;Manipulation des produits chimiques;ROLE_MAGASIN_STAFF;;;;;6
+127;Connait-il la procédure à suivre en cas de non-conformité pdr;Manipulation des produits chimiques;ROLE_MAGASIN_STAFF;;;;;6
+128;Sait-il l’enregistrement à remplir lors de l’alimentation power;Enregistrement;ROLE_QUALITY_STAFF;;;;;6
+129;Sait-il les enregistrements à effectuer et avec quelle fréquence;Enregistrement;ROLE_QUALITY_STAFF;;;;;6
+130;Sait-il remplir les suivis de température;Enregistrement;ROLE_QUALITY_STAFF;;;;;6
+131;Sait-il l’étiquette de sortie du solder paste;Enregistrement;ROLE_QUALITY_STAFF;;;;;6
+132;Sait-il faire la réception des commandes pièces de rechange sur EAM;Enregistrement;ROLE_QUALITY_STAFF;;;;;6
+133;Sait-il remplir le registre entrées/sorties consommables + les EPI;Enregistrement;ROLE_QUALITY_STAFF;;;;;6
+134;Connait-il les éléments de sécurité au magasin;Sécurité;ROLE_HSE_STAFF;;;;;6
+135;Sait-il les points à contrôler et avec quelle fréquence;Sécurité;ROLE_HSE_STAFF;;;;;6
+136;Sait-il que doit-il faire si un équipement de sécurité ne fonctionne pas;Sécurité;ROLE_HSE_STAFF;;;;;6
+137;Connaît-il les mesures de protection et de sécurité à prendre éviter les risques d’accidents;Sécurité;ROLE_HSE_STAFF;;;;;6
+138;En cas de certification, est ce que la matrice de polyvalence a été mis à jour;Matrice de polyvalence (RH);ROLE_HR_STAFF;;;;;6
+139;Sait-il quels équipements ou outils il doit utiliser;Mode opératoire;ROLE_PROCESS_STAFF;;;;;7
+140;Sait-il comment les utiliser;Mode opératoire;ROLE_PROCESS_STAFF;;;;;7
+141;Sait-il introduire les données correspondantes;Mode opératoire;ROLE_PROCESS_STAFF;;;;;7
+142;Sait-il interpréter les informations qui apparaissent sur l’écran;Mode opératoire;ROLE_PROCESS_STAFF;;;;;7
+143;Sait-il travailler par le système QAD/ITAC;Mode opératoire;ROLE_PROCESS_STAFF;;;;;7
+144;Connait il les règles de Handling  (composants, produits semi finis, produit Fini);Mode opératoire;ROLE_PROCESS_STAFF;;;;;7
+145;Connaît-il les règles de ESD;Mode opératoire;ROLE_PROCESS_STAFF;;;;;7
+146;Effectue t-il correctement toutes les opérations de contrôle;Processus de Contrôle;ROLE_QUALITY_STAFF;;;;;7
+147;Sait-il quels sont les paramètres d’INPUT/OUTPUT;Processus de Contrôle;ROLE_QUALITY_STAFF;;;;;7
+148;Sait-il quels sont les points critiques du poste;Processus de Contrôle;ROLE_QUALITY_STAFF;;;;;7
+149;Connaît-il la procédure de l’incoming inspection;Processus de Contrôle;ROLE_QUALITY_STAFF;;;;;7
+150;Sait-il effectuer le contrôle dimensionnel;Processus de Contrôle;ROLE_QUALITY_STAFF;;;;;7
+151;Sait-il traiter les entrants et les sortants de la zone rouge (quarantaine);Processus de Contrôle;ROLE_QUALITY_STAFF;;;;;7
+152;Sait-il réaliser le tri correctement;Processus de Contrôle;ROLE_QUALITY_STAFF;;;;;7
+153;connaît-il la procédure d’identification et traitement du produit non-conforme;Traitement des non conformités;ROLE_QUALITY_STAFF;;;;;7
+154;Connait-il les limites d’interventions de son poste (seuils d’alerte);Traitement des non conformités;ROLE_QUALITY_STAFF;;;;;7
+155;Connait –il les règles de base Qualité;Traitement des non conformités;ROLE_QUALITY_STAFF;;;;;7
+156;Sait il les autocontrôles à effectuer avant /après et pendant le process de contrôle;Enregistrement / Autocontrôle;ROLE_QUALITY_STAFF;;;;;7
+157;Sait il les enregistrements à effectuer et avec quelle fréquence;Enregistrement / Autocontrôle;ROLE_QUALITY_STAFF;;;;;7
+158;Sait il remplir la fiche de scrap correctement;Enregistrement / Autocontrôle;ROLE_QUALITY_STAFF;;;;;7
+159;Sait- il les points à contrôler et avec quelle fréquence;Sécurité;ROLE_HSE_STAFF;;;;;7
+160;Est-il conscient des règles disciplinaire à respecter durant son travail;Sécurité;ROLE_HSE_STAFF;;;;;7
+161;Connaît-il les mesures de protection et de sécurité à prendre pour éviter les risques d’accidents;Sécurité;ROLE_HSE_STAFF;;;;;7
+162;Est-il au courant du plan d’évacuation ainsi que les mesures à prendre en cas d’urgence;Sécurité;ROLE_HSE_STAFF;;;;;7
+163;Respecte-il les règles de séparation des déchets (déchet chimique, carton,…);Environnement;ROLE_HSE_STAFF;;;;;7
+164;Sait-il qu’il ne faut pas jeter des déchets ou des produits chimiques dans les réseaux d’eau;Environnement;ROLE_HSE_STAFF;;;;;7
+165;Une fois terminé de l’utilisation  d’un produit chimique, sait-il  le rendre à son armoire (sans risque de déversement);Environnement;ROLE_HSE_STAFF;;;;;7
+166; Sait-il que nos indicateurs environnementaux sont : consommation d’eau, consommation d’énergie, génération des déchets et recyclage des déchets;Environnement;ROLE_HSE_STAFF;;;;;7
+167;En cas de certification, est ce que la matrice de polyvalence a été mis à jour;Matrice de polyvalence (RH);ROLE_HR_STAFF;;;;;7
+168;Savoir quels équipements ou outils il doit utiliser;Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;8
+169;Capable d’utiliser les outils qualité à sa disposition;Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;8
+170;Connaît-il la procédure de contrôle de qualité;Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;8
+171;Capable d’enregistrer les données correspondantes;Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;8
+172;Maitrise les règles de Handling (composants, produits semi finis);Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;8
+173;Maitrise les règles de ESD;Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;8
+174;Capable de détecter les pièces non conformes et problèmes  de qualité (réussir le test pratique);Processus de contrôle de qualité (Engineering);ROLE_PROCESS_STAFF;;;;;8
+175;Capable d’effectuer correctement toutes les opérations de contrôle qualité;Processus de contrôle de qualité (Engineering);ROLE_PROCESS_STAFF;;;;;8
+176;Maitrise-t-il la défauthèque par machine / par projet;Processus de contrôle de qualité (Engineering);ROLE_PROCESS_STAFF;;;;;8
+177;Capable de vérifier la conformité des produits fabriqués;Processus de contrôle de qualité (Engineering);ROLE_PROCESS_STAFF;;;;;8
+178;Sait alerter les non-conformités majeures des pièces;Processus de contrôle de qualité (Engineering);ROLE_PROCESS_STAFF;;;;;8
+179;Maitrise règles de base Qualité;Processus de contrôle de qualité (Engineering);ROLE_PROCESS_STAFF;;;;;8
+180;Capable de détecter les pièces NOK introduits dans les postes à contrôler;Traitement des non-conformités (Qualité);ROLE_QUALITY_STAFF;;;;;8
+181;Capable d’enregistrer, alerter et isoler les pièces non conformes suivant les instructions de contrôle;Traitement des non-conformités (Qualité);ROLE_QUALITY_STAFF;;;;;8
+182;Connait-il les limites d’interventions de son poste (seuils d’alerte);Traitement des non-conformités (Qualité);ROLE_QUALITY_STAFF;;;;;8
+183;Sait-il les enregistrements liés aux suivis des défauts à effectuer et avec quelle fréquence ;Enregistrement (Qualité);ROLE_QUALITY_STAFF;;;;;8
+184;Capable de checker les toolings d’inspection (Caméra HD, lampe UV, Lightning du poste, etc.);Enregistrement (Qualité);ROLE_QUALITY_STAFF;;;;;8
+185;Sait-il utiliser les outils de contrôle (Si applicable) ;Enregistrement (Qualité);ROLE_QUALITY_STAFF;;;;;8
+186;Sait-il la signification des sigles de criticité sur l’instruction d’autocontrôle (Si applicable);Enregistrement (Qualité);ROLE_QUALITY_STAFF;;;;;8
+187;Comprend-il les conséquences internes & externe en cas de non-respect de l’instruction d’autocontrôle;Enregistrement (Qualité);ROLE_QUALITY_STAFF;;;;;8
+188;Passe il l’étude R&R avec succès (≥90%);Enregistrement (Qualité);ROLE_QUALITY_STAFF;;;;;8
+189;Connait-il les règles d’ergonomie de son poste de travail;Santé & Sécurité (HSE);ROLE_HSE_STAFF;;;;;8
+190;Connait-il les éléments de sécurité de son poste;Santé & Sécurité (HSE);ROLE_HSE_STAFF;;;;;8
+191;Sait-il les points à contrôler et avec quelle fréquence;Santé & Sécurité (HSE);ROLE_HSE_STAFF;;;;;8
+192;Sait-il que doit-il faire si un équipement de sécurité ne fonctionne pas;Santé & Sécurité (HSE);ROLE_HSE_STAFF;;;;;8
+193;Connaît-il les mesures de protection et de sécurité à prendre pour éviter les risques d’accidents;Santé & Sécurité (HSE);ROLE_HSE_STAFF;;;;;8
+194;Respecte-il les règles de séparation des déchets (déchet chimique, carton,…);Environnement (HSE);ROLE_HSE_STAFF;;;;;8
+195;Sait-il qu’il ne faut pas jeter des déchets ou des produits chimiques dans les réseaux d’eau;Environnement (HSE);ROLE_HSE_STAFF;;;;;8
+196;Une fois terminé de l’utilisation d’un produit chimique, sait-il le rendre à son armoire (sans risque de déversement);Environnement (HSE);ROLE_HSE_STAFF;;;;;8
+197;Sait-il que nos indicateurs environnementaux sont : consommation d’eau, consommation d’énergie, génération des déchets et recyclage des déchets;Environnement (HSE);ROLE_HSE_STAFF;;;;;8
+198;En cas de certification ou dé-certification, la matrice de polyvalence a été mis à jour;Matrice de polyvalence;ROLE_HR_STAFF;;;;;8
+199;Discipline;Logistics;ROLE_MAGASIN_STAFF;;;;;9
+200;Disponibilité;Logistics;ROLE_MAGASIN_STAFF;;;;;9
+201;Esprit d'initiative : fait preuve de créativité et d’initiative;Logistics;ROLE_MAGASIN_STAFF;;;;;9
+202;Réactivité : sait réagir au moment opportun;Logistics;ROLE_MAGASIN_STAFF;;;;;9
+203;Polyvalence : sait travailler sur plusieurs postes;Logistics;ROLE_MAGASIN_STAFF;;;;;9
+204;Visibilité : il (elle) a une vision claire de ce qu’il (elle) veut accomplir.;Logistics;ROLE_MAGASIN_STAFF;;;;;9
+205;Esprit d’équipe;Logistics;ROLE_MAGASIN_STAFF;;;;;9
+206;Capacités Techniques : maitrise parfaite des aspects techniques du poste.;Logistics;ROLE_MAGASIN_STAFF;;;;;9
+207;Discipline et Respect des règles de base qualité.;Qualité;ROLE_QUALITY_STAFF;;;;;9
+208;Respect des Procédures et instructions de travail.;Qualité;ROLE_QUALITY_STAFF;;;;;9
+209;Application des 5S au poste.;Qualité;ROLE_QUALITY_STAFF;;;;;9
+210;0 défauts/Anomalie durant les 3 derniers mois.;Qualité;ROLE_QUALITY_STAFF;;;;;9
+211;Assiduité et Ponctualité;Ressources Humaines/ Formation;ROLE_HR_STAFF;;;;;9
+212;Absentéisme;Ressources Humaines/ Formation;ROLE_HR_STAFF;;;;;9
+213;Ecoute active : il (elle) s’intéresse à ce que les autres ont à dire, il (elle) a une bonne écoute et donne son point de vue.;Ressources Humaines/ Formation;ROLE_HR_STAFF;;;;;9
+214;Il (elle) sait établir de bonnes relations avec diverses personnes.;Ressources Humaines/ Formation;ROLE_HR_STAFF;;;;;9
+215;Techniques de Communication : sait communiquer;Ressources Humaines/ Formation;ROLE_HR_STAFF;;;;;9
+216;Capacité de transmettre : sait transmettre de façon claire concise et précise.;Ressources Humaines/ Formation;ROLE_HR_STAFF;;;;;9
+217;Sait-il quels équipements ou outils il doit utiliser ;Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;10
+218;Sait-il comment les utiliser ;Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;10
+219;Connaît-il la procédure de mise en Marche ;Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;10
+220;Sait-il introduire les données correspondantes ;Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;10
+221;Sait-il interpréter les informations qui apparaissent sur l’écran ;Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;10
+222;Connait-il les règles de Handling (composants, produits semi finis);Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;10
+223;Connaît-il les règles de ESD ;Mode opératoire (Engineering);ROLE_PROCESS_STAFF;;;;;10
+224;Effectue-t-il correctement toutes les opérations de fabrication ;Processus de Fabrication (Engineering);ROLE_PROCESS_STAFF;;;;;10
+225;Sait-il quels sont les paramètres d’INPUT/OUTPUT ;Processus de Fabrication (Engineering);ROLE_PROCESS_STAFF;;;;;10
+226;Sait-il quels sont les points critiques du poste;Processus de Fabrication (Engineering);ROLE_PROCESS_STAFF;;;;;10
+227;Peut-il détecter les pièces NOK introduits dans le poste (Red Rabbit);Traitement des non-conformités (Qualité);ROLE_QUALITY_STAFF;;;;;10
+228;0 pièce NOK dû à une mauvaise opération sur le poste durant Qualification B;Traitement des non-conformités (Qualité);ROLE_QUALITY_STAFF;;;;;10
+229;Sait-il quels sont les alertes ou les rejets au niveau de son poste et les actions à entreprendre;Traitement des non-conformités (Qualité);ROLE_QUALITY_STAFF;;;;;10
+230;Connaît-il la procédure d’identification et traitement du produit non-conforme;Traitement des non-conformités (Qualité);ROLE_QUALITY_STAFF;;;;;10
+231;Connait-il les limites d’interventions de son poste (seuils d’alerte);Traitement des non-conformités (Qualité);ROLE_QUALITY_STAFF;;;;;10
+232;Connait-il la procédure de  re-test des produits rework (si applicable);Traitement des non-conformités (Qualité);ROLE_QUALITY_STAFF;;;;;10
+233;Connait –il les règles de base Qualité;Traitement des non-conformités (Qualité);ROLE_QUALITY_STAFF;;;;;10
+234;Sait-il les autocontrôles à effectuer avant /après et pendant le process de fabrication;Enregistrement / Autocontrôle (Qualité);ROLE_QUALITY_STAFF;;;;;10
+235;Sait-il les enregistrements à effectuer et avec quelle fréquence;Enregistrement / Autocontrôle (Qualité);ROLE_QUALITY_STAFF;;;;;10
+236;Sait-il utiliser les outils de contrôle (Si applicable);Enregistrement / Autocontrôle (Qualité);ROLE_QUALITY_STAFF;;;;;10
+237;Sait-il la signification des sigles de criticité sur l’instruction d’autocontrôle (Si applicable);Enregistrement / Autocontrôle (Qualité);ROLE_QUALITY_STAFF;;;;;10
+238;Comprend il les conséquences internes & externe en cas de non-respect de l’instruction d’autocontrôle;Enregistrement / Autocontrôle (Qualité);ROLE_QUALITY_STAFF;;;;;10
+239;Passe-t-il l’étude R&R avec succès (≥90% si applicable);Enregistrement / Autocontrôle (Qualité);ROLE_QUALITY_STAFF;;;;;10
+240;Connait-il les éléments de sécurité de son poste;Sécurité (HSE);ROLE_HSE_STAFF;;;;;10
+241;Sait-il les points à contrôler et avec quelle fréquence;Sécurité (HSE);ROLE_HSE_STAFF;;;;;10
+242;Sait-il que doit-il faire si un équipement de sécurité ne fonctionne pas;Sécurité (HSE);ROLE_HSE_STAFF;;;;;10
+243;Connaît-il les mesures de protection et de sécurité à prendre pour éviter les risques d’accidents;Sécurité (HSE);ROLE_HSE_STAFF;;;;;10
+244;Respecte-il les règles de séparation des déchets (déchet chimique, carton,…);Environnement (HSE);ROLE_HSE_STAFF;;;;;10
+245;Sait-il qu’il ne faut pas jeter des déchets ou des produits chimiques dans les réseaux d’eau;Environnement (HSE);ROLE_HSE_STAFF;;;;;10
+246;Une fois terminé de l’utilisation d’un produit chimique, sait-il  le rendre à son armoire (sans risque de déversement);Environnement (HSE);ROLE_HSE_STAFF;;;;;10
+247;Sait-il que nos indicateurs environnementaux sont : consommation d’eau, consommation d’énergie, génération des déchets et recyclage des déchets;Environnement (HSE);ROLE_HSE_STAFF;;;;;10
+248;En cas de certification, est ce que la matrice de polyvalence a été mis à jour;Matrice de polyvalence (RH);ROLE_HR_STAFF;;;;;10

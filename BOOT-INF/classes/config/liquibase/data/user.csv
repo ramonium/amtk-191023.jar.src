@@ -1,0 +1,101 @@
+id;login;password_hash;first_name;last_name;email;image_url;activated;lang_key;created_by;last_modified_by
+1;admin;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;admin;admin;admin@localhost;;TRUE;en;system;system
+2;hr_admin;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;hrAdmin;hrAdmin;hrAdmin@localhost;;TRUE;en;system;system
+3;hr_staff;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;hrStaff;hrStaff;hrStaff@localhost;;TRUE;en;system;system
+4;process_admin;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;processAdmin;processAdmin;processAdmin@localhost;;TRUE;en;system;system
+5;process_staff;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;processStaff;processStaff;processStaff@localhost;;TRUE;en;system;system
+6;process_test_staff;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;processTestStaff;processTestStaff;processTestStaff@localhost;;TRUE;en;system;system
+7;process_aoi_staff;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;processAOIStaff;processAOIStaff;processAOIStaff@localhost;;TRUE;en;system;system
+8;process_smt_staff;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;processSMTStaff;processSMTStaff;processSMTStaff@localhost;;TRUE;en;system;system
+9;process_power_staff;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;processPowerStaff;processPowerStaff;processPowerStaff@localhost;;TRUE;en;system;system
+10;quality_admin;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;qualityAdmin;qualityAdmin;qualityAdmin@localhost;;TRUE;en;system;system
+11;quality_staff;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;qualityStaff;qualityStaff;qualityStaff@localhost;;TRUE;en;system;system
+12;quality_power_staff;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;qualityPowerStaff;qualityPowerStaff;qualityPowerStaff@localhost;;TRUE;en;system;system
+13;quality_smt_staff;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;qualitySMTStaff;qualitySMTStaff;qualitySMTStaff@localhost;;TRUE;en;system;system
+14;quality_rework_staff;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;qualityReworkStaff;qualityReworkStaff;qualityReworkStaff@localhost;;TRUE;en;system;system
+15;quality_wh_staff;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;qualityWHStaff;qualityWHStaff;qualityWHStaff@localhost;;TRUE;en;system;system
+16;production_admin;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;productionAdmin;productionAdmin;productionAdmin@localhost;;TRUE;en;system;system
+17;production_staff;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;productionStaff;productionStaff;productionStaff@localhost;;TRUE;en;system;system
+18;production_smt_staff;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;productionSMTStaff;productionSMTStaff;productionSMTStaff@localhost;;TRUE;en;system;system
+19;production_power_staff;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;productionPowerStaff;productionPowerStaff;productionPowerStaff@localhost;;TRUE;en;system;system
+20;souad.benlahsen;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;Souad;Benlahsen;Sbenlahsen@lear.com;;TRUE;en;system;system
+21;ouidad.ez.ziani;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;OUIDAD;EZ ZIANI  ;OEzZiani@lear.com;;TRUE;en;system;system
+22;ibtissam.benaouda;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;IBTISSAM;BENAOUDA;Ibenaouda@lear.com;;TRUE;en;system;system
+23;mohamed.ben.ali;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;MOHAMED;BEN ALI ;MBenAli@lear.com;;TRUE;en;system;system
+24;mohamed.chaamouri;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;MOHAMED;CHAAMOURI ;MChaamouri@lear.com;;TRUE;en;system;system
+25;omar.tbal;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;OMAR;TBAL;OTbal@lear.com;;TRUE;en;system;system
+26;imad.bouabdalli;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;IMAD;BOUABDALLI ;IBouabdalli@lear.com;;TRUE;en;system;system
+27;driss.bouziker;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;DRISS;BOUZIKER;DBouziker@lear.com;;TRUE;en;system;system
+28;mohmaed.belharti;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;MOHMAED;BELHARTI;MBelharti@lear.com;;TRUE;en;system;system
+29;firas.benmalek;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;FIRAS;BENMALEK;FBenmalek@lear.com;;TRUE;en;system;system
+30;adnan.el.matmour;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;ADNAN;EL MATMOUR ;AElMetmour@lear.com;;TRUE;en;system;system
+31;hakim.ait.taleb;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;HAKIM;AIT TALEB ;HAittaleb@lear.com;;TRUE;en;system;system
+32;ayoub.lmeziouit;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;AYOUB;LMEZIOUIT;Almeziout@lear.com;;TRUE;en;system;system
+33;oussama.tabat;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;OUSSAMA;TABAT;OTabat@lear.com;;TRUE;en;system;system
+34;youssef.zrira;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;YOUSSEF;ZRIRA;YZRIRA@LEAR.COM;;TRUE;en;system;system
+35;hicham.khannira;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;HICHAM;KHANNIRA;HKhannira@lear.com;;TRUE;en;system;system
+36;issam.allam;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;ISSAM;ALLAM;IAllam@lear.com;;TRUE;en;system;system
+37;karima.abdelmoula;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;KARIMA;ABDELMOULA;KAbdelmoula@lear.com;;TRUE;en;system;system
+38;mohmaed.cheffa;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;MOHMAED;CHEFFA;MCheffa@lear.com;;TRUE;en;system;system
+39;mustapha.el.attari;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;MUSTAPHA;EL ATTARI;MElAttari@lear.com;;TRUE;en;system;system
+40;soufiane.akhmouch;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;SOUFIANE;AKHMOUCH;SAkhmouch@lear.com;;TRUE;en;system;system
+41;youssef.nokbi;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;YOUSSEF;NOKBI;YNokbi@lear.com;;TRUE;en;system;system
+42;amine.el.mzandi;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;AMINE;EL MZANDI;AELMZANDI@lear.com;;TRUE;en;system;system
+43;mourad.houmadi;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;MOURAD;HOUMADI;MHoumadi@lear.com;;TRUE;en;system;system
+44;hatim.cherfi;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;HATIM;CHERFI;HCherfi@lear.com;;TRUE;en;system;system
+45;mouhcine.el.amrani;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;MOUHCINE;EL AMRANI;MElamrani@lear.com;;TRUE;en;system;system
+46;faycal.mouhajir;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;FAYCAL;MOUHAJIR;FMouhajir@lear.com;;TRUE;en;system;system
+47;marouane.elmaataoui;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;MAROUANE;ELMAATAOUI;MELMAATAOUI@LEAR.COM;;TRUE;en;system;system
+48;zakaria.benzazya;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;ZAKARIA;BENZAZYA;zbenzazya@lear.com;;TRUE;en;system;system
+49;mehdi.ourhanem;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;MEHDI;OURHANEM;mouranem@lear.com;;TRUE;en;system;system
+50;noureddine.bouzid;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;NOUREDDINE;BOUZID;NBouzid@lear.com;;TRUE;en;system;system
+51;brahim.ouaya;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;BRAHIM;OUAYA;BOuaya@lear.com;;TRUE;en;system;system
+52;hicham.massrouf;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;HICHAM;MASSROUF;HMassrouf@lear.com;;TRUE;en;system;system
+53;charf.eddine.tounssi;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;CHARF EDDINE;TOUNSSI;CTOUNSI@lear.com;;TRUE;en;system;system
+54;brahim.bouhou;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;BRAHIM;BOUHOU;BBouhou@lear.com;;TRUE;en;system;system
+55;said.aboukhar;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;SAID;ABOUKHAR;SABOUKHAR@LEAR.COM;;TRUE;en;system;system
+56;ayoub.el.karrouch;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;AYOUB ;EL KARROUCH;AELKARROUCH@lear.com;;TRUE;en;system;system
+57;abdelkhalek.slassi;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;ABDELKHALEK;SLASSI;ASLASSI@lear.com;;TRUE;en;system;system
+58;youssef.elballi;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;YOUSSEF;ELBALLI;YELballi@lear.com;;TRUE;en;system;system
+59;abdelaziz.zaidane;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;ABDELAZIZ;ZAIDANE;AZaidane@lear.com;;TRUE;en;system;system
+60;taha.abidi;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;TAHA;ABIDI;TAbidi@lear.com;;TRUE;en;system;system
+61;mohamed.ismail.dejedidi;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;MOHAMED ISMAIL;DEJEDIDI;MDJEDIDI@lear.com;;TRUE;en;system;system
+62;abderrahmane.el.mesbahi;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;ABDERRAHMANE;EL MESBAHI;AElmesbahi@lear.com;;TRUE;en;system;system
+63;kamal.bichar;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;KAMAL;BICHAR;KBichar@lear.com;;TRUE;en;system;system
+64;yassir.boulaich;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;YASSIR;BOULAICH ;YBOULAICH@lear.com;;TRUE;en;system;system
+65;adil.chadli;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;ADIL;CHADLI;AChadli@lear.com;;TRUE;en;system;system
+66;mohamed.tighermet;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;MOHAMED;TIGHERMET;MTighremt@lear.com;;TRUE;en;system;system
+67;mohamed.aoulad.larbi;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;MOHAMED;Aoulad larbi;MAOULAD LARBI@LEAR.COM;;TRUE;en;system;system
+68;brahim.abahddou;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;Brahim;ABAHDDOU;BAbahaddou@lear.com;;TRUE;en;system;system
+69;elmostafa.assila;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;ELMOSTAFA;ASSILA;EAssila@lear.com;;TRUE;en;system;system
+70;oussama.akikab;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;OUSSAMA;AKIKAB;OAkikab@lear.com;;TRUE;en;system;system
+71;otmane.abouchabane;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;OTMANE;ABOUCHABANE;OAbouchabane@lear.com;;TRUE;en;system;system
+72;abdelatif.boustta;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;ABDELATIF;BOUSTTA;ABoustta@lear.com;;TRUE;en;system;system
+73;nizar.zouhri;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;NIZAR;ZOUHRI;NZouhri@lear.com;;TRUE;en;system;system
+74;mohammed.mzirda;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;MOHAMMED;MZIRDA;MMzirda@lear.com;;TRUE;en;system;system
+75;noureddine.mouchrif;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;NOUREDDINE;MOUCHRIF;NMouchrif@lear.com;;TRUE;en;system;system
+76;abdellah.hmaiddouch;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;ABDELLAH;HMAIDDOUCH;AHmaiddouch@lear.com;;TRUE;en;system;system
+77;almaamoun.faik;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;ALMAAMOUN;FAIK;FAlmaamoun@lear.com;;TRUE;en;system;system
+78;hmaiddouch.abdellah;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;HMAIDDOUCH;ABDELLAH;ahmaiddouch@lear.com;;TRUE;en;system;system
+79;akram.hind;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;AKRAM;HIND;hakram@lear,com;;TRUE;en;system;system
+80;kamal.souali;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;KAMAL;SOUALI;KSouali@lear.com;;TRUE;en;system;system
+81;bouhrouz.imane;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;BOUHROUZ;IMANE;IBouhrouz@lear.com;;TRUE;en;system;system
+82;ababou.karim;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;ABABOU;KARIM;KAbabou@lear.com;;TRUE;en;system;system
+83;ahansal.touria;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;AHANSAL;TOURIA;TAHANSAL@LEAR.COM;;TRUE;en;system;system
+84;mardioui.mostapha;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;Mardioui;mostapha;MMardioui@lear.com;;TRUE;en;system;system
+85;el.hirech.younes;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;EL HIRECH;YOUNES;YElhirech@lear.com;;TRUE;en;system;system
+86;ghaddara.mohammed;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;GHADDARA;MOHAMMED;MGhaddara@lear.com;;TRUE;en;system;system
+87;touil.btissam;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;TOUIL;BTISSAM;BTouil@lear.com;;TRUE;en;system;system
+88;daoudi.said;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;DAOUDI ;SAID;SDaoudi@lear.com;;TRUE;en;system;system
+89;sedki.mohammed;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;SEDKI;MOHAMMED;MSedki@lear.com;;TRUE;en;system;system
+90;ouarda.otmane;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;OUARDA;OTMANE;OOuarda@lear.com;;TRUE;en;system;system
+91;abderrahman.haij;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;ABDERRAHMAN;HAIJ;ahaij@lear.com;;TRUE;en;system;system
+92;yassine.serhani;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;YASSINE;SERHANI;yserhani@lear.com;;TRUE;en;system;system
+93;zakaria.kchiri;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;ZAKARIA;KCHIRI;ZKchiri@lear.com;;TRUE;en;system;system
+94;hassan.laghlaoui;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;HASSAN;LAGHLAOUI;HLaghlaoui@lear.com;;TRUE;en;system;system
+95;youssef.amaadour;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;YOUSSEF ;AMAADOUR;yamaador@lear.com;;TRUE;en;system;system
+96;ahmed.er.rebyiy;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;AHMED;Er Rebyiy;aerrebyiy@lear.com;;TRUE;en;system;system
+97;imad.fouysy;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;IMAD;Fouysy;ifouysy@lear.com;;TRUE;en;system;system
+98;bougensa.aziz;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;Bougensa;Aziz;abouguensa@lear.com;;TRUE;en;system;system
+99;mouguenni.abdesslam;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;Mouguenni;Abdesslam;amouguenni@lear.com;;TRUE;en;system;system
+100;elbaroudi.abdelilah;$2a$10$gSAhZrxMllrbgj/kkK9UceBPpChGWJA7SYIb1Mqo.n5aNLq1/oRrC;Elbaroudi;Abdelilah;aelbaroudi@lear.com;;TRUE;en;system;system

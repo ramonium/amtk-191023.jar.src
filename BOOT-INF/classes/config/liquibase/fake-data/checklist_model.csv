@@ -1,0 +1,11 @@
+id;title;description;validator;validator_2;validator_3;validator_4;created_by;created_date;last_modified_by;last_modified_date
+1;Check liste de qualification « Niveau B  »  Assistant de production « Poste d’insertion automatique »;;ROLE_HR_ADMIN;NULL;NULL;NULL;;;;
+2;Check liste de qualification du Personnel Direct « Niveau C »;;ROLE_HR_ADMIN;NULL;NULL;NULL;;;;
+3;Check liste de décertification du Personnel Direct;;ROLE_HR_ADMIN;NULL;NULL;NULL;;;;
+4;Check liste de Re- qualification du Personnel Direct;;ROLE_HR_ADMIN;NULL;NULL;NULL;;;;
+5;Check liste de qualification du Personnel Direct « Niveau D »;;ROLE_HR_ADMIN;NULL;NULL;NULL;;;;
+6;Check liste de Qualification/Requalification du Personnel du Magasin « Niveau B »;;ROLE_HR_ADMIN;NULL;NULL;NULL;;;;
+7;Check liste de Qualification/ Requalification du Personnel de la qualité du magasin « Niveau B »;;ROLE_HR_ADMIN;NULL;NULL;NULL;;;;
+8;Checklist de qualification/Requalification des opérateurs Firewall;;ROLE_HR_ADMIN;NULL;NULL;NULL;;;;
+9;Check liste de qualification du Personnel Du magasin « Niveau D »;;ROLE_HR_ADMIN;NULL;NULL;NULL;;;;
+10;Check liste de qualification du Personnel Direct « Niveau B »;;ROLE_HR_ADMIN;NULL;NULL;NULL;;;;

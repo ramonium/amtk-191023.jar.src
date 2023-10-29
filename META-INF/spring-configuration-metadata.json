@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "com.nanosoft.amtk.config.ApplicationProperties",
+      "sourceType": "com.nanosoft.amtk.config.ApplicationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

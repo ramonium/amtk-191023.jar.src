@@ -1,0 +1,53 @@
+id;name;description;order_number;project_id
+1;SMT Area;SMT Area (Cordset);1;;;;;1
+2;Power Area;Power Area (Cordset);2;;;;;1
+3;EOL;EOL (Cordset);3;;;;;1
+4;Wiring;Wiring (Cordset);4;;;;;1
+5;SMT Area;SMT Area (CMF1);1;;;;;2
+6;Power Area;Power Area (CMF1);2;;;;;2
+7;SMT Area;SMT Area (C1A);1;;;;;3
+8;Power Area;Power Area (C1A);2;;;;;3
+9;Power Area;Power Area (JLR L663);2;;;;;4
+10;SMT Area;SMT Area (JLR OMM);1;;;;;5
+11;SMT Area;SMT Area (MQB);1;;;;;6
+12;Power Area;Power Area (Ford PDB);2;;;;;7
+13;SMT Area;SMT Area (Ford HCM);1;;;;;8
+14;Power Area;Power Area (Ford HCM);2;;;;;8
+15;SMT Area;SMT Area (SBOX);1;;;;;9
+16;Power Area;Power Area (SBOX);2;;;;;9
+17;SMT Area;SMT Area (PL3);1;;;;;10
+18;Power Area;Power Area (PL3);2;;;;;10
+19;SMT Area;SMT Area (PL7);1;;;;;11
+20;Power Area;Power Area (Star2 BR222);2;;;;;12
+21;Power Area;Power Area (Star2 BR213);2;;;;;13
+22;SMT Area;SMT Area (USM2010);1;;;;;14
+23;Power Area;Power Area (USM2010);2;;;;;14
+24;Power Area;Power Area (Volvo Trucks);2;;;;;15
+25;SMT Area;SMT Area (X-10);1;;;;;16
+26;Power Area;Power Area (X-10);2;;;;;16
+27;SMT Area;SMT Area (VOLVO OBC);1;;;;;17
+28;Power Area;Power Area (VOLVO OBC);2;;;;;17
+29;SMT Area;SMT Area (VOLVO DCDC);1;;;;;18
+30;Power Area;Power Area (VOLVO DCDC);2;;;;;18
+31;SMT Area;SMT Area (PSA PDU);1;;;;;19
+32;Power Area;Power Area (PSA PDU);2;;;;;19
+33;SMT Area;SMT Area (VCU1/VCU1+);1;;;;;20
+34;SMT Area;SMT Area (VOLVO OFM);1;;;;;21
+35;SMT Area;SMT Area ( VOLVO HCM GEN2);1;;;;;22
+36;SMT Area;SMT Area ( VOLVO HCM GEN3);1;;;;;23
+37;SMT Area;SMT Area (JLR GCM);1;;;;;24
+38;SMT Area;SMT Area (Ford SDLC);1;;;;;25
+39;SMT Area;SMT Area (HLI PXL );1;;;;;26
+40;SMT Area;SMT Area (Ferrari ASM);1;;;;;27
+41;SMT Area;SMT Area (JLR ADC ESSM);1;;;;;28
+42;SMT Area;SMT Area (JLR ADC HEM);1;;;;;29
+43;SMT Area;SMT Area (JLR ADC HSPM);1;;;;;30
+44;SMT Area;SMT Area (JLR ADC HSAM);1;;;;;31
+45;SMT Area;SMT Area (JLR ADC IM );1;;;;;32
+46;SMT Area;SMT Area (JLR ACM HRM);1;;;;;33
+47;SMT Area;SMT Area (JLR ADC LITE);1;;;;;34
+48;SMT Area;SMT Area (JLR ADC M14);1;;;;;35
+49;SMT Area;SMT Area (JLR ADC M4);1;;;;;36
+50;SMT Area;SMT Area (JLR ADC M8);1;;;;;37
+51;SMT Area;SMT Area (JLR ADC MM);1;;;;;38
+52;SMT Area;SMT Area (JLR ADC M14 RE-DESIGN);1;;;;;39
